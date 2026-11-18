@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 310" role="img" aria-label="Gilled mushroom life cycle showing primary mycelium with one nucleus per cell, fusion of two compatible mating types into a secondary mycelium with two separate nuclei per cell, and nuclear fusion inside basidia on the gills to produce four new spores">
+  <defs>
+    <marker id="arr-g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#28624d"/>
+    </marker>
+  </defs>
+
+  <rect width="720" height="310" fill="#fbfaf6"/>
+
+  <!-- Step 1: Two primary mycelia -->
+  <text x="20" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1d2925">1. Primary mycelia (1 nucleus / cell)</text>
+  <text x="20" y="44" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#52635c">Grows and feeds, cannot fruit alone</text>
+
+  <!-- Spore A -> Hypha A -->
+  <circle cx="34" cy="94" r="9" fill="#edf3ee" stroke="#28624d" stroke-width="1.8"/>
+  <circle cx="34" cy="94" r="3.5" fill="#28624d"/>
+  <text x="34" y="118" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#28624d">Spore A</text>
+  <line x1="48" y1="94" x2="72" y2="94" stroke="#28624d" stroke-width="1.5" marker-end="url(#arr-g)"/>
+
+  <!-- Segmented Hypha A -->
+  <g>
+    <rect x="80" y="80" width="44" height="28" fill="#edf3ee" stroke="#28624d" stroke-width="1.6"/>
+    <rect x="124" y="80" width="44" height="28" fill="#edf3ee" stroke="#28624d" stroke-width="1.6"/>
+    <rect x="168" y="80" width="44" height="28" fill="#edf3ee" stroke="#28624d" stroke-width="1.6"/>
+    <circle cx="102" cy="94" r="4" fill="#28624d"/>
+    <circle cx="146" cy="94" r="4" fill="#28624d"/>
+    <circle cx="190" cy="94" r="4" fill="#28624d"/>
+  </g>
+
+  <!-- Spore B -> Hypha B -->
+  <circle cx="34" cy="194" r="9" fill="#f9efe6" stroke="#b5652c" stroke-width="1.8"/>
+  <circle cx="34" cy="194" r="3.5" fill="#b5652c"/>
+  <text x="34" y="218" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#b5652c">Spore B</text>
+  <line x1="48" y1="194" x2="72" y2="194" stroke="#28624d" stroke-width="1.5" marker-end="url(#arr-g)"/>
+
+  <!-- Segmented Hypha B -->
+  <g>
+    <rect x="80" y="180" width="44" height="28" fill="#f9efe6" stroke="#b5652c" stroke-width="1.6"/>
+    <rect x="124" y="180" width="44" height="28" fill="#f9efe6" stroke="#b5652c" stroke-width="1.6"/>
+    <rect x="168" y="180" width="44" height="28" fill="#f9efe6" stroke="#b5652c" stroke-width="1.6"/>
+    <circle cx="102" cy="194" r="4" fill="#b5652c"/>
+    <circle cx="146" cy="194" r="4" fill="#b5652c"/>
+    <circle cx="190" cy="194" r="4" fill="#b5652c"/>
+  </g>
+
+  <!-- Step 2: Fusion -->
+  <path d="M 212 94 C 245 94, 245 144, 275 144" fill="none" stroke="#28624d" stroke-width="2"/>
+  <path d="M 212 194 C 245 194, 245 144, 275 144" fill="none" stroke="#b5652c" stroke-width="2"/>
+  <circle cx="275" cy="144" r="14" fill="#ffffff" stroke="#1d2925" stroke-width="1.8"/>
+  <text x="275" y="148" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1d2925">+</text>
+  <text x="255" y="236" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" font-weight="700" fill="#1d2925">2. Mating types fuse</text>
+  <text x="255" y="252" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#52635c">Compatible strains only</text>
+
+  <!-- Step 3: Secondary mycelium -->
+  <line x1="291" y1="144" x2="322" y2="144" stroke="#28624d" stroke-width="1.8" marker-end="url(#arr-g)"/>
+  <text x="330" y="76" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#28624d">3. Secondary mycelium</text>
+  <text x="330" y="92" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#52635c">2 separate nuclei / cell</text>
+  <text x="330" y="106" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#28624d">This is the stage that fruits</text>
+
+  <g>
+    <rect x="330" y="128" width="54" height="32" fill="#f3f5f1" stroke="#1d2925" stroke-width="1.8"/>
+    <rect x="384" y="128" width="54" height="32" fill="#f3f5f1" stroke="#1d2925" stroke-width="1.8"/>
+    <rect x="438" y="128" width="54" height="32" fill="#f3f5f1" stroke="#1d2925" stroke-width="1.8"/>
+    <!-- Two nuclei side by side in each cell -->
+    <circle cx="348" cy="144" r="4.2" fill="#28624d"/><circle cx="366" cy="144" r="4.2" fill="#b5652c"/>
+    <circle cx="402" cy="144" r="4.2" fill="#28624d"/><circle cx="420" cy="144" r="4.2" fill="#b5652c"/>
+    <circle cx="456" cy="144" r="4.2" fill="#28624d"/><circle cx="474" cy="144" r="4.2" fill="#b5652c"/>
+  </g>
+  <text x="411" y="182" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#52635c">Nuclei stay unmerged (dikaryon)</text>
+
+  <!-- Grower callout -->
+  <rect x="330" y="210" width="166" height="44" rx="6" fill="#edf3ee" stroke="#28624d" stroke-width="1.2"/>
+  <text x="413" y="228" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#28624d">Spawn = this stage</text>
+  <text x="413" y="244" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#52635c">Already fused &amp; ready to fruit</text>
+
+  <!-- Step 4: Mushroom & Basidium -->
+  <line x1="496" y1="144" x2="526" y2="144" stroke="#28624d" stroke-width="1.8" marker-end="url(#arr-g)"/>
+
+  <rect x="534" y="22" width="172" height="266" rx="8" fill="#ffffff" stroke="#d7ded6" stroke-width="1.5"/>
+  <text x="546" y="44" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#1d2925">4. Gills &amp; basidia</text>
+  <text x="546" y="60" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#52635c">Nuclei finally merge here</text>
+
+  <!-- Mini mushroom -->
+  <path d="M 613 122 L 615 92 L 625 92 L 627 122 Z" fill="#f7f4ec" stroke="#1d2925" stroke-width="1.4"/>
+  <ellipse cx="620" cy="93" rx="28" ry="6" fill="#e2ddd1" stroke="#1d2925" stroke-width="1.2"/>
+  <path d="M 590 93 C 590 68, 650 68, 650 93 C 635 89, 605 89, 590 93 Z" fill="#c98e5b" stroke="#1d2925" stroke-width="1.4"/>
+
+  <!-- Zoom arrow to basidium -->
+  <line x1="620" y1="100" x2="620" y2="146" stroke="#52635c" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <!-- Club-shaped basidium -->
+  <path d="M 612 246 L 612 206 C 600 192, 602 162, 620 162 C 638 162, 640 192, 628 206 L 628 246 Z" fill="#f3f5f1" stroke="#1d2925" stroke-width="1.6"/>
+  <!-- Merged & reshuffled nucleus -->
+  <circle cx="620" cy="186" r="6" fill="#70643d"/>
+  <!-- 4 prongs + 4 new spores -->
+  <g stroke="#1d2925" stroke-width="1.3">
+    <line x1="607" y1="166" x2="594" y2="152"/>
+    <line x1="615" y1="162" x2="611" y2="146"/>
+    <line x1="625" y1="162" x2="629" y2="146"/>
+    <line x1="633" y1="166" x2="646" y2="152"/>
+  </g>
+  <!-- 4 new mixed-gene spores -->
+  <circle cx="591" cy="148" r="5" fill="#4f6c47" stroke="#1d2925" stroke-width="1"/>
+  <circle cx="610" cy="141" r="5" fill="#8e6437" stroke="#1d2925" stroke-width="1"/>
+  <circle cx="630" cy="141" r="5" fill="#4f6c47" stroke="#1d2925" stroke-width="1"/>
+  <circle cx="649" cy="148" r="5" fill="#8e6437" stroke="#1d2925" stroke-width="1"/>
+
+  <text x="620" y="266" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#1d2925">4 new mixed spores</text>
+  <text x="620" y="280" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#52635c">Drop from gills to restart cycle</text>
+</svg>

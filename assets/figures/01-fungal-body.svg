@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="Cross-section showing a small visible mushroom above ground connected to an extensive hidden mycelium underground, plus a magnified hypha digesting food outside and absorbing nutrients">
+  <defs>
+    <marker id="arr-g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#28624d"/>
+    </marker>
+    <marker id="arr-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 8 5 L 0 9 z" fill="#a65a2a"/>
+    </marker>
+  </defs>
+
+  <rect width="720" height="340" fill="#fbfaf6"/>
+  <!-- Underground soil/substrate zone -->
+  <rect x="0" y="148" width="720" height="192" fill="#f1eee6"/>
+  <line x1="0" y1="148" x2="720" y2="148" stroke="#8a7f70" stroke-width="2"/>
+
+  <!-- Zone labels -->
+  <text x="20" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#52635c">ABOVE SURFACE · TEMPORARY</text>
+  <text x="20" y="170" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#52635c">INSIDE SUBSTRATE (SOIL / WOOD) · MAIN BODY</text>
+
+  <!-- Hidden mycelium network -->
+  <g fill="none" stroke="#28624d" stroke-linecap="round">
+    <path d="M 270 148 C 250 185, 200 205, 130 225" stroke-width="2.4"/>
+    <path d="M 270 148 C 265 190, 230 230, 175 275" stroke-width="2.2"/>
+    <path d="M 270 148 C 278 195, 295 245, 270 300" stroke-width="2.4"/>
+    <path d="M 270 148 C 295 190, 355 215, 435 235" stroke-width="2.3"/>
+    <path d="M 270 148 C 290 198, 340 250, 395 290" stroke-width="2"/>
+    <!-- secondary branches -->
+    <path d="M 205 195 C 165 180, 115 185, 65 195" stroke-width="1.5"/>
+    <path d="M 165 215 C 130 245, 95 265, 55 280" stroke-width="1.4"/>
+    <path d="M 225 230 C 195 245, 145 245, 105 260" stroke-width="1.3"/>
+    <path d="M 278 220 C 315 245, 345 265, 360 305" stroke-width="1.4"/>
+    <path d="M 355 212 C 390 188, 425 185, 465 195" stroke-width="1.4"/>
+    <path d="M 275 255 C 240 280, 215 295, 195 315" stroke-width="1.3"/>
+    <path d="M 130 225 C 100 210, 75 225, 45 240" stroke-width="1.2"/>
+    <path d="M 395 225 C 425 255, 450 270, 470 295" stroke-width="1.2"/>
+  </g>
+
+  <!-- Mushroom fruiting body -->
+  <!-- Stem -->
+  <path d="M 258 148 C 259 120, 261 95, 262 82 L 278 82 C 279 95, 281 120, 282 148 Z" fill="#f7f4ec" stroke="#1d2925" stroke-width="1.8"/>
+  <!-- Gills under cap -->
+  <ellipse cx="270" cy="83" rx="46" ry="10" fill="#e2ddd1" stroke="#1d2925" stroke-width="1.5"/>
+  <g stroke="#8a7f70" stroke-width="1">
+    <line x1="234" y1="82" x2="258" y2="85"/>
+    <line x1="244" y1="86" x2="262" y2="87"/>
+    <line x1="296" y1="86" x2="278" y2="87"/>
+    <line x1="306" y1="82" x2="282" y2="85"/>
+  </g>
+  <!-- Cap -->
+  <path d="M 222 83 C 222 44, 318 44, 318 83 C 296 76, 244 76, 222 83 Z" fill="#c98e5b" stroke="#1d2925" stroke-width="1.8"/>
+
+  <!-- Falling spores -->
+  <g fill="#a65a2a">
+    <circle cx="232" cy="100" r="2.2"/><circle cx="222" cy="115" r="2"/><circle cx="238" cy="124" r="2.1"/>
+    <circle cx="215" cy="132" r="1.8"/><circle cx="308" cy="99" r="2.2"/><circle cx="316" cy="114" r="2"/>
+    <circle cx="302" cy="126" r="2"/><circle cx="324" cy="134" r="1.8"/>
+  </g>
+
+  <!-- Labels for left/center -->
+  <line x1="318" y1="62" x2="352" y2="52" stroke="#52635c" stroke-width="1.2"/>
+  <text x="358" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#1d2925">Fruiting body (mushroom)</text>
+  <text x="358" y="66" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" fill="#52635c">Spore-maker — not the whole fungus</text>
+
+  <line x1="322" y1="115" x2="352" y2="112" stroke="#a65a2a" stroke-width="1.2"/>
+  <text x="358" y="110" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" fill="#a65a2a">Spores</text>
+  <text x="358" y="125" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" fill="#52635c">Disperse to start new hyphae</text>
+
+  <text x="165" y="324" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#28624d">Mycelium (network of hyphae)</text>
+
+  <!-- Magnified hypha feeding inset -->
+  <rect x="492" y="162" width="212" height="162" rx="8" fill="#ffffff" stroke="#d7ded6" stroke-width="1.5"/>
+  <text x="506" y="183" font-family="system-ui, -apple-system, sans-serif" font-size="11.5" font-weight="700" fill="#1d2925">Zoom: how a hypha feeds</text>
+
+  <!-- Hypha tip -->
+  <path d="M 508 240 L 588 240 C 602 240, 602 256, 588 256 L 508 256 Z" fill="#edf3ee" stroke="#28624d" stroke-width="2"/>
+  <!-- Septa / nuclei -->
+  <line x1="542" y1="240" x2="542" y2="256" stroke="#28624d" stroke-width="1.2"/>
+  <circle cx="525" cy="248" r="2.5" fill="#28624d"/>
+  <circle cx="566" cy="248" r="2.5" fill="#28624d"/>
+
+  <!-- Enzymes out -->
+  <line x1="572" y1="236" x2="572" y2="210" stroke="#a65a2a" stroke-width="1.6" stroke-dasharray="3 2" marker-end="url(#arr-b)"/>
+  <line x1="600" y1="248" x2="628" y2="248" stroke="#a65a2a" stroke-width="1.6" stroke-dasharray="3 2" marker-end="url(#arr-b)"/>
+  <text x="556" y="203" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#a65a2a">Enzymes out</text>
+
+  <!-- Food molecules breaking down -->
+  <rect x="634" y="220" width="14" height="14" rx="2" fill="#d9cbb8" stroke="#8a7f70" stroke-width="1"/>
+  <text x="653" y="231" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#52635c">wood / litter</text>
+  <circle cx="640" cy="252" r="2.5" fill="#28624d"/>
+  <circle cx="648" cy="258" r="2.5" fill="#28624d"/>
+  <circle cx="635" cy="264" r="2.5" fill="#28624d"/>
+
+  <!-- Nutrients absorbed -->
+  <line x1="628" y1="268" x2="585" y2="268" stroke="#28624d" stroke-width="1.8" marker-end="url(#arr-g)"/>
+  <line x1="572" y1="286" x2="572" y2="262" stroke="#28624d" stroke-width="1.8" marker-end="url(#arr-g)"/>
+  <text x="506" y="302" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#28624d">Digest outside → absorb</text>
+  <text x="506" y="316" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" fill="#52635c">No photosynthesis, no stomach</text>
+</svg>
