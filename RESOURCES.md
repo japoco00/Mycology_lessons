@@ -16,7 +16,7 @@
   Medium trust overview of spawn, pasteurization vs. sterilization, pinning, and fruiting phases. Use for: general cultivation terminology.
 - [Cornell Small Farms: Growing Mushrooms for Fun and Profit](https://smallfarms.cornell.edu/2010/04/growing-mushrooms-for-fun-and-profit/)
   Cornell Cooperative Extension overview of shiitake and other mushrooms grown outdoors on logs or woodchips. Useful for cultivation concepts, but not an indoor-growing guide.
-- [Cornell Small Farms: Indoor Production](https://smallfarms.cornell.edu/2019/04/indoor-production/)
+- [Cornell Small Farms: Indoor Production](https://smallfarms.cornell.edu/projects/mushrooms/indoor-production/)
   Cornell Cooperative Extension overview of indoor spawn run (incubation) vs. pinning and fruiting environments. Use for: colonization vs. fruiting conditions.
 
 ## Wisdom (Communities)
