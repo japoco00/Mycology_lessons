@@ -33,6 +33,18 @@ Mycelium formed after two compatible primary mycelia fuse; two separate nuclei p
 **Gills**:
 The plates under a mushroom's cap, made of packed hyphae, where spores are produced.
 
+**Chitin**:
+The tough polysaccharide in fungal cell walls (also in insect exoskeletons).
+
+**Septum** (plural: septa):
+A cross-wall dividing a hypha into compartments, usually with pores so nutrients flow through. Absent in *coenocytic* hyphae (one multinucleate cell).
+
+**Spitzenkörper**:
+A cluster of vesicles at a hypha's tip that delivers new membrane and wall material, driving tip growth.
+
+**Exoenzymes**:
+Enzymes a fungus releases outside its body to digest food before absorbing it.
+
 **Substrate**:
 The dead organic material a fungus grows through and digests (such as wood, straw, sawdust, or soil litter).
 

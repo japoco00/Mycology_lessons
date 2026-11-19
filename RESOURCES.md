@@ -14,6 +14,10 @@
   Medium trust; cite only claims backed by their references. Use for: per-species lifestyle and cultivation status.
 - [Wikipedia: Fungiculture](https://en.wikipedia.org/wiki/Fungiculture)
   Medium trust overview of spawn, pasteurization vs. sterilization, pinning, and fruiting phases. Use for: general cultivation terminology.
+- [Wikipedia: Hypha](https://en.wikipedia.org/wiki/Hypha)
+  Medium trust; the "Growth" section is referenced. Use for: tip growth, Spitzenkörper, branching.
+- [M. Piepenbring diagrams on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abb1.7_Fungi_hypha_growth_tip_Spitzenk%C3%B6rper_septum_turgor_2021_(M._Piepenbring).png)
+  Clear CC BY-SA 3.0 teaching diagrams by a mycology professor (hypha tip, septal pores). Use for: anatomy figures; attribute when reused.
 - [Cornell Small Farms: Growing Mushrooms for Fun and Profit](https://smallfarms.cornell.edu/2010/04/growing-mushrooms-for-fun-and-profit/)
   Cornell Cooperative Extension overview of shiitake and other mushrooms grown outdoors on logs or woodchips. Useful for cultivation concepts, but not an indoor-growing guide.
 - [Cornell Small Farms: Indoor Production](https://smallfarms.cornell.edu/projects/mushrooms/indoor-production/)
