@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img">
+  <rect width="640" height="260" fill="#faf6ec"/>
+  <g stroke="#6b5a3a" stroke-width="3" fill="#f1e6c8">
+    <rect x="30" y="40" width="580" height="70" rx="35"/>
+    <rect x="30" y="150" width="580" height="70" rx="35"/>
+  </g>
+  <g stroke="#6b5a3a" stroke-width="4">
+    <line x1="175" y1="42" x2="175" y2="76"/><line x1="175" y1="92" x2="175" y2="108"/>
+    <line x1="320" y1="42" x2="320" y2="76"/><line x1="320" y1="92" x2="320" y2="108"/>
+    <line x1="465" y1="42" x2="465" y2="76"/><line x1="465" y1="92" x2="465" y2="108"/>
+  </g>
+  <g fill="#8a4b2a">
+    <circle cx="100" cy="75" r="10"/><circle cx="247" cy="75" r="10"/>
+    <circle cx="392" cy="75" r="10"/><circle cx="537" cy="75" r="10"/>
+  </g>
+  <g fill="#8a4b2a">
+    <circle cx="90" cy="185" r="10"/><circle cx="170" cy="190" r="10"/><circle cx="255" cy="182" r="10"/>
+    <circle cx="340" cy="188" r="10"/><circle cx="425" cy="183" r="10"/><circle cx="510" cy="190" r="10"/><circle cx="575" cy="184" r="10"/>
+  </g>
+</svg>
