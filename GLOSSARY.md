@@ -31,7 +31,22 @@ Mycelium grown from one spore; one nucleus per cell. In gilled mushrooms it can'
 Mycelium formed after two compatible primary mycelia fuse; two separate nuclei per cell. The stage that fruits.
 
 **Gills**:
-The plates under a mushroom's cap, made of packed hyphae, where spores are produced.
+The plates under a mushroom's cap, made of packed hyphae, where spores are produced. One kind of *hymenophore*.
+
+**Cap** (pileus) and **stem** (stipe):
+The cap carries the spore-making surface underneath; the stem is sterile tissue that lifts it into moving air. Some mushrooms have an off-centre stem or none at all.
+
+**Hymenophore**:
+The spore-bearing structure under the cap: gills, pores (tube openings, as in boletes), teeth (spines), folds or a smooth surface.
+
+**Hymenium**:
+The layer of spore-making cells (e.g. basidia) covering the hymenophore.
+
+**Universal veil** and **volva**:
+A layer wrapping the whole young mushroom. When it tears it can leave a cup at the stem base (the volva) and warts on the cap.
+
+**Partial veil** and **ring** (annulus):
+A sheet from cap edge to stem covering young gills. When it tears it often leaves a ring on the stem (a cobweb-like *cortina* in some species).
 
 **Chitin**:
 The tough polysaccharide in fungal cell walls (also in insect exoskeletons).

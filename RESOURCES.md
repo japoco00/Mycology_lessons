@@ -16,6 +16,8 @@
   Medium trust overview of spawn, pasteurization vs. sterilization, pinning, and fruiting phases. Use for: general cultivation terminology.
 - [Wikipedia: Hypha](https://en.wikipedia.org/wiki/Hypha)
   Medium trust; the "Growth" section is referenced. Use for: tip growth, Spitzenkörper, branching.
+- [Wikipedia: Mushroom](https://en.wikipedia.org/wiki/Mushroom#Morphology), plus [Stipe](https://en.wikipedia.org/wiki/Stipe_(mycology)), [Lamella](https://en.wikipedia.org/wiki/Lamella_(mycology)), [Hymenophore](https://en.wikipedia.org/wiki/Hymenophore), [Universal veil](https://en.wikipedia.org/wiki/Universal_veil), [Partial veil](https://en.wikipedia.org/wiki/Partial_veil)
+  Medium trust; "Morphology" and "Growth" sections referenced. Use for: mushroom anatomy, veils, spore-bearing surfaces, how mushrooms expand.
 - [M. Piepenbring diagrams on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abb1.7_Fungi_hypha_growth_tip_Spitzenk%C3%B6rper_septum_turgor_2021_(M._Piepenbring).png)
   Clear CC BY-SA 3.0 teaching diagrams by a mycology professor (hypha tip, septal pores). Use for: anatomy figures; attribute when reused.
 - [Cornell Small Farms: Growing Mushrooms for Fun and Profit](https://smallfarms.cornell.edu/2010/04/growing-mushrooms-for-fun-and-profit/)
