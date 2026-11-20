@@ -1,10 +1,11 @@
 # Mission: Mycology
 
 ## Why
-Study fungi for general understanding, with the option to try growing edible mushrooms at home.
+Study fungi for a solid understanding of their biology and anatomy, with the option to try growing edible mushrooms at home.
 
 ## Success looks like
 - Explain the difference between a fungus and its visible mushroom.
+- Describe fungal anatomy from the cell up: hyphae, mycelium and fruiting-body structures, and how each works.
 - Understand the basic fungal growth cycle and use it to make sense of cultivation.
 - Choose a suitable beginner home-growing approach if that interest becomes a concrete goal.
 
