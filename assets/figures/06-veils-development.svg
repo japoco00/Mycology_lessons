@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img">
+  <rect width="900" height="320" fill="#faf6ec"/>
+  <g stroke="#8a7a5a" stroke-width="2" stroke-dasharray="6 6">
+    <line x1="300" y1="30" x2="300" y2="290"/>
+    <line x1="600" y1="30" x2="600" y2="290"/>
+  </g>
+  <g stroke="#6b5a3a" stroke-width="2"><line x1="20" y1="286" x2="880" y2="286"/></g>
+
+  <!-- A: button inside universal veil -->
+  <ellipse cx="150" cy="210" rx="62" ry="76" fill="#fffdf5" stroke="#6b5a3a" stroke-width="3"/>
+  <rect x="137" y="200" width="26" height="72" rx="6" fill="#efe4c6" opacity=".9"/>
+  <path d="M108,205 Q150,150 192,205 Z" fill="#a0522d" opacity=".75"/>
+
+  <!-- B: expanding, universal veil torn, partial veil intact -->
+  <path d="M412,286 L408,248 L420,256 L428,240 L438,252 L450,238 L462,252 L472,240 L480,256 L492,248 L488,286 Z" fill="#fffdf5" stroke="#6b5a3a" stroke-width="3"/>
+  <rect x="437" y="150" width="26" height="130" rx="6" fill="#efe4c6" stroke="#6b5a3a" stroke-width="2"/>
+  <path d="M386,152 Q450,62 514,152 Z" fill="#a0522d" stroke="#6b5a3a" stroke-width="2"/>
+  <path d="M388,152 L512,152 L463,180 L437,180 Z" fill="#fffdf5" stroke="#6b5a3a" stroke-width="2"/>
+  <g fill="#fffdf5" stroke="#6b5a3a" stroke-width="1.5">
+    <circle cx="425" cy="118" r="6"/><circle cx="450" cy="104" r="7"/><circle cx="478" cy="116" r="6"/>
+    <circle cx="408" cy="138" r="5"/><circle cx="494" cy="138" r="5"/>
+  </g>
+
+  <!-- C: mature, ring + volva + warts -->
+  <path d="M712,286 L708,248 L720,256 L728,240 L738,252 L750,238 L762,252 L772,240 L780,256 L792,248 L788,286 Z" fill="#fffdf5" stroke="#6b5a3a" stroke-width="3"/>
+  <rect x="737" y="132" width="26" height="148" rx="6" fill="#efe4c6" stroke="#6b5a3a" stroke-width="2"/>
+  <path d="M652,134 L848,134 L770,148 L730,148 Z" fill="#d9c9a0" stroke="#6b5a3a" stroke-width="2"/>
+  <g stroke="#8a7a5a" stroke-width="1.5">
+    <line x1="672" y1="135" x2="732" y2="146"/><line x1="695" y1="135" x2="735" y2="146"/>
+    <line x1="718" y1="135" x2="738" y2="146"/><line x1="782" y1="135" x2="762" y2="146"/>
+    <line x1="805" y1="135" x2="765" y2="146"/><line x1="828" y1="135" x2="768" y2="146"/>
+  </g>
+  <path d="M650,135 Q750,64 850,135 Z" fill="#a0522d" stroke="#6b5a3a" stroke-width="2"/>
+  <path d="M737,168 L722,196 Q750,206 778,196 L763,168 Z" fill="#fffdf5" stroke="#6b5a3a" stroke-width="2"/>
+  <g fill="#fffdf5" stroke="#6b5a3a" stroke-width="1.5">
+    <circle cx="700" cy="112" r="6"/><circle cx="730" cy="98" r="7"/><circle cx="765" cy="96" r="6"/>
+    <circle cx="798" cy="108" r="7"/><circle cx="676" cy="126" r="5"/><circle cx="824" cy="124" r="5"/>
+  </g>
+</svg>

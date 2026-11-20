@@ -180,6 +180,7 @@ figure.visual figcaption strong {
 }
 
 .plate-labels.cols-2 { grid-template-columns: repeat(2, 1fr); }
+.plate-labels.cols-3 { grid-template-columns: repeat(3, 1fr); }
 .plate-labels strong { display: block; color: var(--accent); font-size: .85rem; }
 
 @media (max-width: 540px) {
